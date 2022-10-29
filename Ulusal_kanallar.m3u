@@ -1,21 +1,63 @@
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Yerel",TRT 1 (HD)
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Ulusal",TRT 1 (HD)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="" group-title="Undefined",TRT 2 (HD)
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="" group-title="Ulusal",TRT 2 (HD)
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
-
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="" group-title="Yerel",Kanal D (HD)
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="" group-title="Ulusal",Kanal D (HD)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
-
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="" group-title="Ulusal",Kanal 7 (HD)
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-id="TV24.tr" tvg-logo="" group-title="Haber",TV 24 (HD)
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="" group-title="Ulusal",Star TV (HD)
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="" group-title="Ulusal",Show TV (HD)
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="" group-title="Haber",NTV (HD)
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="" group-title="Haber",CNN Turk (HD)
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="" group-title="Ulusal",TV 8 (HD)
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="" group-title="Ulusal",ATV (HD)
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="" group-title="Haber",Haberturk (HD)
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="" group-title="Haber",Haber Global (HD)
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1 tvg-id="TV360.tr" tvg-logo="" group-title="Ulusal",TV 360 (HD)
+https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="" group-title="Ulusal",Beyaz TV (HD)
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.tr" tvg-logo="" group-title="Ekonomi",Bloomberg HT (HD)
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-id="DMax.tr" tvg-logo="" group-title="Eğlence",DMax (HD)
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="" group-title="Haber",Flash TV (HD)
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="" group-title="Ulusal",Teve 2 (HD)
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="Mavikaradeniz.tr" tvg-logo="" group-title="Yerel",Mavikaradeniz (HD)
+https://h125.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="KralTV.tr" tvg-logo="" group-title="Muzik",Kral TV (HD)
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="" group-title="Haber",Halk TV (HD)
+https://halktv-live.ercdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="A2.tr" tvg-logo="" group-title="Ulusal",A2 (HD)
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="" group-title="Yabanci",TLC (HD)
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNet.tr" tvg-logo="" group-title="Haber",TV Net (HD)
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="" group-title="Haber",TRT Haber (HD)
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="" group-title="Haber",TGRT Haber (HD)
+https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="" group-title="Spor",A Spor (HD)
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="" group-title="Spor",TRT Spor (HD)
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="" group-title="Spor",TRT Spor Yildiz (HD)
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
