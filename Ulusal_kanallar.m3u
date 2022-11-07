@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Ulusal",TRT 1 (HD)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="" group-title="Ulusal",TRT 2 (HD)
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="" group-title="Undefined",TRT 2 (HD)
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="" group-title="Ulusal",Kanal D (HD)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -20,6 +20,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="" group-title="Ulusal",ATV (HD)
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Series",Fox Türkiye (720p)
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="" group-title="Haber",Haberturk (HD)
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="" group-title="Haber",Haber Global (HD)
@@ -48,7 +50,7 @@ https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNet.tr" tvg-logo="" group-title="Haber",TV Net (HD)
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="" group-title="Haber",TRT Haber (HD)
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="" /group-title="Haber",TRT Haber (HD)
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="" group-title="Haber",TGRT Haber (HD)
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
@@ -58,10 +60,3 @@ https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="" group-title="Spor",TRT Spor Yildiz (HD)
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="" group-title="Undefined",TRT 1 (HD)
